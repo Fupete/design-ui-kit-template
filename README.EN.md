@@ -6,9 +6,19 @@
 
 _🇮🇹 [Italian version](README.md)_
 
-**Template description**
+**Description of this template resource**
 
-## 💙 How to contribute
+Warning: Some features in Figma (.fig) files may not be available
+be present and/or incorrect in .sketch files converted using the
+latest version of [fig2sketch](https://github.com/sketch-hq/fig2sketch).
+It is therefore recommended to always check the conversion result
+and declare the status of resources and this eventuality to users.
+
+## How to get started
+
+You can find Figma files and derived Sketch files in the latest release
+of the project here on GitHub.
+
+## How to contribute 💙
 
 How to contribute (issues, resources ecc..)
-
